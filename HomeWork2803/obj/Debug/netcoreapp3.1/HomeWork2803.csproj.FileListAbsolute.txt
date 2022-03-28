@@ -1,0 +1,14 @@
+C:\Users\99470\source\repos\HomeWork2803\HomeWork2803\obj\Debug\netcoreapp3.1\HomeWork2803.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\HomeWork2803\HomeWork2803\obj\Debug\netcoreapp3.1\HomeWork2803.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\HomeWork2803\HomeWork2803\obj\Debug\netcoreapp3.1\HomeWork2803.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\HomeWork2803\HomeWork2803\obj\Debug\netcoreapp3.1\HomeWork2803.AssemblyInfo.cs
+C:\Users\99470\source\repos\HomeWork2803\HomeWork2803\obj\Debug\netcoreapp3.1\HomeWork2803.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\HomeWork2803\HomeWork2803\bin\Debug\netcoreapp3.1\HomeWork2803.exe
+C:\Users\99470\source\repos\HomeWork2803\HomeWork2803\bin\Debug\netcoreapp3.1\HomeWork2803.deps.json
+C:\Users\99470\source\repos\HomeWork2803\HomeWork2803\bin\Debug\netcoreapp3.1\HomeWork2803.runtimeconfig.json
+C:\Users\99470\source\repos\HomeWork2803\HomeWork2803\bin\Debug\netcoreapp3.1\HomeWork2803.runtimeconfig.dev.json
+C:\Users\99470\source\repos\HomeWork2803\HomeWork2803\bin\Debug\netcoreapp3.1\HomeWork2803.dll
+C:\Users\99470\source\repos\HomeWork2803\HomeWork2803\bin\Debug\netcoreapp3.1\HomeWork2803.pdb
+C:\Users\99470\source\repos\HomeWork2803\HomeWork2803\obj\Debug\netcoreapp3.1\HomeWork2803.dll
+C:\Users\99470\source\repos\HomeWork2803\HomeWork2803\obj\Debug\netcoreapp3.1\HomeWork2803.pdb
+C:\Users\99470\source\repos\HomeWork2803\HomeWork2803\obj\Debug\netcoreapp3.1\HomeWork2803.genruntimeconfig.cache
